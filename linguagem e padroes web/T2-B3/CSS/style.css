@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(red, green, blue);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1, h2, h3, h4 {
+    color: rgb(red, green, blue);
+    text-align: center;
+}
+.h1Verde {
+    color: rgb(241, 18, 18);
+}
+#h3Amarelo {
+    color: yellow;
+}
+div {
+    border: 5px solid black;
+}
