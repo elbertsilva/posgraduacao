@@ -1,0 +1,10 @@
+npm install express --save
+npm install body-parser --save
+npm install cookie-parser --save
+node codigo.js
+
+//node-red
+npm intall -g --unsafe-perm node-red
+//para abrir o arquivo
+node-red
+localhost:1880
